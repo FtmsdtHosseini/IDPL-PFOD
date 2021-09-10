@@ -3,7 +3,7 @@ This repository contains IDPL-LSPOD that is Large-Scale Persian OCR Dataset for 
 
 ## IDPL-LSPOD Description
 IDPL-LSPOD:
-+ Is an Artificial Persian printed dataset.
++ Is an Artificial image dataset of Persian printed text.
 
 + Has 30,138 images in tif format, each image containing a line of real Persian text.
 
