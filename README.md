@@ -47,7 +47,7 @@ IDPL-LSPOD:
 
  + *We used part of the code published [here](https://github.com/Belval/TextRecognitionDataGenerator) to add SineWave distortion to our images.*
 ## Summery of IDPL-LSPOD
-|#######| **Plain white** | **Noisy** | **Texture** | **Total image**| **Total Lines** | **Total Words** |
+| | **Plain white** | **Noisy** | **Texture** | **Total image**| **Total Lines** | **Total Words** |
 :-:|:-:|:-:|:-:|:-:|:-:|:-:
 | **Each font** | 1,370 | 1,096 | 273 or 274 | 2739 or 2740 | 2739 or 2740 | 41,085 or 41,100 |
 | **Total fonts** | 15,070 | 12,056 | 3,012 | 30,138 | 30,138 | 452,070 |
