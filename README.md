@@ -41,11 +41,11 @@ IDPL-LSPOD:
  
 **Notes:**
 
- +*We used [MirasText](https://github.com/miras-tech/MirasText/tree/master/MirasText) Dataset to generate text of each image.*
+ + *We used [MirasText](https://github.com/miras-tech/MirasText/tree/master/MirasText) Dataset to generate text of each image.*
 
- +*We generated IDPL-LSPOD's images by using the Python programming language.*
+ + *We generated IDPL-LSPOD's images by using the Python programming language.*
 
- +*We used part of the code published [here](https://github.com/Belval/TextRecognitionDataGenerator) to add wave distortion to our images.*
+ + *We used part of the code published [here](https://github.com/Belval/TextRecognitionDataGenerator) to add wave distortion to our images.*
 ## Summery of IDPL-LSPOD
 |#######| **Plain white** | **Noisy** | **Texture** | **Total image**| **Total Lines** | **Total Words** |
 :-:|:-:|:-:|:-:|:-:|:-:|:-:
