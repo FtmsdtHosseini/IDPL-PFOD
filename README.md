@@ -1,5 +1,20 @@
 # IDPL-LSPOD
-This repository contains IDPL-LSPOD that is Large-Scale Persian OCR Dataset for Persian optical character recognition researches. A demo of the dataset is provided in "Demo of IDPL-LSPOD.zip" which contains 90 Images. The full dataset is uploaded in google drive and you can download it here. In order to use the complete dataset you need to submit a request to ftmsdt_hosseini@yahoo.com or https://www.linkedin.com/in/fatemesadat-hosseini/and we will provide you with the password needed to extract IDPL-LSPOD.zip.
+This repository contains IDPL-LSPOD that is Large-Scale Persian OCR Dataset for Persian optical character recognition researches.
+
+A demo of the dataset is provided in "Demo of IDPL-LSPOD.zip" which contains 90 Images.
+
+The full dataset is uploaded in google drive and you can download it here.
+
+To use the complete dataset, you must submit your request to one of the following communication channels:
+ + ftmsdt_hosseini@yahoo.com 
+ + https://www.linkedin.com/in/fatemesadat-hosseini/and 
+
+we will provide you with the password needed to extract IDPL-LSPOD.zip.
+
+**Notes:**
++ *IDPL is abbreviation of “Intelligent Data Processing Laboratory”.*
+
++ *LSPOD is abbreviation of “ Large-Scale Persian OCR Dataset”.*
 
 ## IDPL-LSPOD Description
 IDPL-LSPOD:
@@ -25,7 +40,7 @@ IDPL-LSPOD:
 + To generate images, 11 common Persian fonts with 2 font styles and 7 font sizes have been used.
 
 + To record image information, we have created a file that has 7 columns and 30,138 rows, each row corresponding to an image.
-
+ 
 ## Summery of IDPL-LSPOD
 |#######| **Plain white** | **Noisy** | **Texture** | **Total image**| **Total Lines** | **Total Words** |
 :-:|:-:|:-:|:-:|:-:|:-:|:-:
