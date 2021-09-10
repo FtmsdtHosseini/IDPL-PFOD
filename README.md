@@ -24,3 +24,6 @@ IDPL-LSPOD:
 :-:|:-:|:-:|:-:|:-:|:-:|:-:
 | **Each font** | 1,370 | 1,096 | 273 or 274 | 2739 or 2740 | 2739 or 2740 | 41,085 or 41,100 |
 | **Total fonts** | 15,070 | 12,056 | 3,012 | 30,138 | 30,138 | 452,070 |
+
+## Some of generated images
+![08230] (F:\Bachelor\project\python code2\python file for my article\Demo of IDPL-LSPOD.08230.tif)
