@@ -12,9 +12,9 @@ To use the complete dataset, you must submit your request to one of the followin
 we will provide you with the password needed to extract IDPL-LSPOD.zip.
 
 **Notes:**
-+ *IDPL is abbreviation of “Intelligent Data Processing Laboratory”.*
+ + *IDPL is abbreviation of “Intelligent Data Processing Laboratory”.*
 
-+ *LSPOD is abbreviation of “ Large-Scale Persian OCR Dataset”.*
+ + *LSPOD is abbreviation of “ Large-Scale Persian OCR Dataset”.*
 
 ## IDPL-LSPOD Description
 IDPL-LSPOD:
@@ -40,10 +40,11 @@ IDPL-LSPOD:
 + To record image information, we have created a file that has 7 columns and 30,138 rows, each row corresponding to an image.
  
 **Notes:**
+ +*We used [MirasText](https://github.com/miras-tech/MirasText/tree/master/MirasText) Dataset to generate text of each image*
 
-+ *we generated IDPL-LSPOD's images by using the Python programming language.*
+ +*We generated IDPL-LSPOD's images by using the Python programming language.*
 
-+ *we used [MirasText](https://github.com/miras-tech/MirasText/tree/master/MirasText) Dataset to generate text of each image*
+ +*We used part of the code published [here](https://github.com/Belval/TextRecognitionDataGenerator) to add wave distortion to our images.*
 ## Summery of IDPL-LSPOD
 |#######| **Plain white** | **Noisy** | **Texture** | **Total image**| **Total Lines** | **Total Words** |
 :-:|:-:|:-:|:-:|:-:|:-:|:-:
