@@ -26,7 +26,7 @@ IDPL-LSPOD:
 | **Total fonts** | 15,070 | 12,056 | 3,012 | 30,138 | 30,138 | 452,070 |
 
 ## Some of generated images in png format
-#### *Plain whit background:*
+#### *Plain white background:*
 ![](images/16475.png)
 #### *Noisy background:*
 ![](images/08252.png)
@@ -36,3 +36,5 @@ IDPL-LSPOD:
 ![](images/05044.png)
 #### *Noisy background, Sloping(-1 degree) distortion:*
 ![](images/21991.png)
+#### *Plain white background, Sinwave distortion, Gaussian blur:*
+![](images/14770.png)
