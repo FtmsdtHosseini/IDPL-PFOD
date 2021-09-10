@@ -14,7 +14,7 @@ we will provide you with the password needed to extract IDPL-LSPOD.zip.
 **Notes:**
  + *IDPL is abbreviation of “Intelligent Data Processing Laboratory”.*
 
- + *LSPOD is abbreviation of “ Large-Scale Persian OCR Dataset”.*
+ + *LSPOD is abbreviation of “Large-Scale Persian OCR Dataset”.*
 
 ## IDPL-LSPOD Description
 IDPL-LSPOD:
