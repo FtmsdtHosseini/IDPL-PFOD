@@ -40,7 +40,8 @@ IDPL-LSPOD:
 + To record image information, we have created a file that has 7 columns and 30,138 rows, each row corresponding to an image.
  
 **Notes:**
- +*We used [MirasText](https://github.com/miras-tech/MirasText/tree/master/MirasText) Dataset to generate text of each image*
+
+ +*We used [MirasText](https://github.com/miras-tech/MirasText/tree/master/MirasText) Dataset to generate text of each image.*
 
  +*We generated IDPL-LSPOD's images by using the Python programming language.*
 
