@@ -25,7 +25,7 @@ IDPL-LSPOD:
 | **Each font** | 1,370 | 1,096 | 273 or 274 | 2739 or 2740 | 2739 or 2740 | 41,085 or 41,100 |
 | **Total fonts** | 15,070 | 12,056 | 3,012 | 30,138 | 30,138 | 452,070 |
 
-## Some of generated images
+## Some of generated images in png format
 ![](images/08230.png)
 ![](images/05044.png)
 ![](images/16475.png)
