@@ -34,13 +34,15 @@ IDPL-LSPOD:
   + 3% blur.
   
   + 2% both blur and one type of distortion.
-
-+ we generated IDPL-LSPOD's images by using the Python programming language.
   
 + To generate images, 11 common Persian fonts with 2 font styles and 7 font sizes have been used.
 
 + To record image information, we have created a file that has 7 columns and 30,138 rows, each row corresponding to an image.
  
+**Notes:**
+
++ *we generated IDPL-LSPOD's images by using the Python programming language.*
+
 ## Summery of IDPL-LSPOD
 |#######| **Plain white** | **Noisy** | **Texture** | **Total image**| **Total Lines** | **Total Words** |
 :-:|:-:|:-:|:-:|:-:|:-:|:-:
