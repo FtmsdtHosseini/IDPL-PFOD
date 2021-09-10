@@ -43,7 +43,7 @@ IDPL-LSPOD:
 
 + *we generated IDPL-LSPOD's images by using the Python programming language.*
 
-+ *we used MirasText Dataset to generate text of each image*
++ *we used [MirasText](https://github.com/miras-tech/MirasText/tree/master/MirasText) Dataset to generate text of each image*
 ## Summery of IDPL-LSPOD
 |#######| **Plain white** | **Noisy** | **Texture** | **Total image**| **Total Lines** | **Total Words** |
 :-:|:-:|:-:|:-:|:-:|:-:|:-:
