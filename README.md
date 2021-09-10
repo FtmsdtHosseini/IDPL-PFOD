@@ -34,3 +34,5 @@ IDPL-LSPOD:
 ![](images/08230.png)
 #### *Texture background, Sinwave distortion:*
 ![](images/05044.png)
+#### *Noisy background, Sloping(-1 degree) distortion:*
+![](images/21991.png)
