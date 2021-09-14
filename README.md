@@ -6,7 +6,7 @@ A demo of the dataset is provided in "Demo of IDPL-LSPOD.zip" which contains 90 
 The full dataset is uploaded in IDPL website and you can download it [here](https://drive.google.com/drive/folders/1fKN8HXV8-xFZAhNUGj4brWAlpXRoOVvj?usp=sharing).
 
 To use the complete dataset, you must submit your request to one of the following communication channels:
- + ftmsdt_hosseini@yahoo.com 
+ + seyedehhosseini98@gmail.com
  + https://www.linkedin.com/in/fatemesadat-hosseini/and 
 
 we will provide you with the password needed to extract IDPL-LSPOD.zip.
