@@ -5,7 +5,7 @@ A demo of the dataset is provided in "Demo of IDPL-LSPOD.zip" which contains 90 
 
 The full dataset is uploaded in IDPL website and Google Drive you can download it in one of the following two ways:
 
- + [Google Drive](https://drive.google.com/drive/folders/1Nhvs5WFQH-EAVK0zk8YyyJnSMdvYJJhw?usp=sharing).
+ + [Google Drive](https://drive.google.com/drive/folders/1Nhvs5WFQH-EAVK0zk8YyyJnSMdvYJJhw?usp=sharing)
  + [IDPL website]
  
 To use the complete dataset, you must submit your request to one of the following communication channels:
