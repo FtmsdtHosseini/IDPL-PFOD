@@ -67,3 +67,4 @@ IDPL-LSPOD:
 ![](images/14770.png)
 ## In which fields IDPL-LSPOD can be used?
  + Train phase of Persian OCR engine.
+ + Branch of OCR research.
