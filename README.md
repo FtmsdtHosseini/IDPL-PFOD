@@ -54,7 +54,7 @@ IDPL-LSPOD:
 ## Summery of IDPL-LSPOD
 | | **Plain white** | **Noisy** | **Texture** | **Total image**| **Total Lines** | **Total Words** |
 :-:|:-:|:-:|:-:|:-:|:-:|:-:
-| **Each font** | 1,370 | 1,096 | 273 or 274 | 2,739 or 2,740 | 2,739 or 2,740 | 41,085 or 41,100 |
+| **Each font** | 1,370 | 1,096 | 273/274 | 2,739/2,740 | 2,739/2,740 | 41,085/41,100 |
 | **Total fonts** | 15,070 | 12,056 | 3,012 | 30,138 | 30,138 | 452,070 |
 
 ## Some of generated images in png format
