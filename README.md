@@ -3,7 +3,7 @@ This repository contains IDPL-LSPOD that is Large-Scale Persian OCR Dataset for 
 
 A demo of the dataset is provided in "Demo of IDPL-LSPOD.zip" which contains 90 Images.
 
-The full dataset is uploaded in IDPL website and you can download it [here](https://drive.google.com/drive/folders/1fKN8HXV8-xFZAhNUGj4brWAlpXRoOVvj?usp=sharing).
+The full dataset is uploaded in IDPL website and you can download it [here](https://drive.google.com/drive/folders/1Nhvs5WFQH-EAVK0zk8YyyJnSMdvYJJhw?usp=sharing).
 
 To use the complete dataset, you must submit your request to one of the following communication channels:
  + ftmsdt98@gmail.com
