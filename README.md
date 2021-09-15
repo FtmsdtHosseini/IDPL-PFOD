@@ -52,7 +52,7 @@ IDPL-LSPOD:
 
 ## In which fields IDPL-LSPOD can be used?
  + Train phase of Persian OCR engine.
- + Branch of OCR research.
+ + Some branch of OCR research.
 
 ## Summery of IDPL-LSPOD
 | | **Plain white** | **Noisy** | **Texture** | **Total image**| **Total Lines** | **Total Words** |
