@@ -46,6 +46,11 @@ IDPL-LSPOD:
  + *We generated IDPL-LSPOD's images by using the Python programming language.*
 
  + *We used part of the code published [here](https://github.com/Belval/TextRecognitionDataGenerator) to add SineWave distortion to our images.*
+
+## In which fields IDPL-LSPOD can be used?
+ + Train phase of Persian OCR engine.
+ + Branch of OCR research.
+
 ## Summery of IDPL-LSPOD
 | | **Plain white** | **Noisy** | **Texture** | **Total image**| **Total Lines** | **Total Words** |
 :-:|:-:|:-:|:-:|:-:|:-:|:-:
@@ -65,6 +70,3 @@ IDPL-LSPOD:
 ![](images/21991.png)
 #### *Plain white background, Sinwave distortion, Gaussian blur:*
 ![](images/14770.png)
-## In which fields IDPL-LSPOD can be used?
- + Train phase of Persian OCR engine.
- + Branch of OCR research.
