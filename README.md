@@ -3,7 +3,7 @@ This repository contains IDPL-LSPOD that is Large-Scale Persian OCR Dataset for 
 
 A demo of the dataset is provided in "Demo of IDPL-LSPOD.zip" which contains 90 Images.
 
-The full dataset is uploaded in IDPL website and Google Drive you can download it[here.](https://drive.google.com/drive/folders/1Nhvs5WFQH-EAVK0zk8YyyJnSMdvYJJhw?usp=sharing).
+The full dataset is uploaded in IDPL website and Google Drive you can download it [here](https://drive.google.com/drive/folders/1Nhvs5WFQH-EAVK0zk8YyyJnSMdvYJJhw?usp=sharing).
 
 To use the complete dataset, you must submit your request to one of the following communication channels:
  + ftmsdt98@gmail.com
@@ -24,12 +24,12 @@ IDPL-LSPOD:
 
 + The dimensions of the images are 700 x 50 pixels.
 
-+ 50% of the images are generated with a white background, 40% with a noisy background and 10% with a textured background.
++ 50% of the images are generated with a Plain white background, 40% with a noisy background and 10% with a texture background.
  
 + To increase the similarity of images with real images, we have added distortion and blur to 10% of the total images.
   + 4% sloping distortion.
   
-  + 1% sine wave distortion.
+  + 1% sinewave distortion.
  
   + 3% blur.
   
@@ -37,7 +37,7 @@ IDPL-LSPOD:
   
 + To generate images, 11 common Persian fonts with 2 font styles and 7 font sizes have been used.
 
-+ To record image information, we have created a file that has 7 columns and 30,138 rows, each row corresponding to an image.
++ To record image information, we have created a CSV file that has 30,138 rows, each row corresponding to an image.
  
 **Notes:**
 
