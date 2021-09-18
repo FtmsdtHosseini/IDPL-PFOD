@@ -1,7 +1,7 @@
 # *IDPL-PrFOD: An Image Dataset of Printed Farsi Text for OCR Research.*
-This repository contains IDPL-PrFOD that is Printed Farsi OCR Dataset for Farsi optical character recognition researches.
+This repository contains IDPL-PrFOD that is a Printed Farsi OCR Dataset for Farsi optical character recognition researches.
 
-The full dataset is uploaded in IDPL website and Google Drive you can download it in one of the following two ways:
+The full dataset is uploaded in IDPL website and Google Drive which can be downloaded with the following links:
 
  + [Google Drive](https://drive.google.com/drive/folders/1Nhvs5WFQH-EAVK0zk8YyyJnSMdvYJJhw?usp=sharing)
  + [IDPL website]
