@@ -1,4 +1,4 @@
-# IDPL-PFOD: An Image Dataset of Printed Farsi Text for OCR Research.
+# *IDPL-PFOD: An Image Dataset of Printed Farsi Text for OCR Research.*
 This repository contains IDPL-PFOD that is Printed Farsi OCR Dataset for Farsi optical character recognition researches.
 
 The full dataset is uploaded in IDPL website and Google Drive you can download it in one of the following two ways:
@@ -15,7 +15,7 @@ The full dataset is uploaded in IDPL website and Google Drive you can download i
 IDPL-PFOD:
 + Is an artificial image dataset of printed Farsi text.
 
-+ Has 30,138 images in tif format, each image containing a line of real Farsi text.
++ Has 30,138 images in **tif** format, each image containing a line of real Farsi text.
 
 + The dimensions of the images are 700 x 50 pixels.
 
