@@ -1,29 +1,21 @@
-# IDPL-LSFOD: An Artificial Image Dataset of Printed Persian Text for OCR Research 
-This repository contains IDPL-LSFOD that is Large-Scale Farsi OCR Dataset for Persian optical character recognition researches.
-
-A demo of the dataset is provided in "Demo of IDPL-LSFOD.zip" which contains 90 Images.
+# IDPL-PFOD: An Image Dataset of Printed Farsi Text for OCR Research.
+This repository contains IDPL-PFOD that is Printed Farsi OCR Dataset for Farsi optical character recognition researches.
 
 The full dataset is uploaded in IDPL website and Google Drive you can download it in one of the following two ways:
 
  + [Google Drive](https://drive.google.com/drive/folders/1Nhvs5WFQH-EAVK0zk8YyyJnSMdvYJJhw?usp=sharing)
  + [IDPL website]
  
-To use the complete dataset, you must submit your request to one of the following communication channels:
- + ftmsdt98@gmail.com
- + https://www.linkedin.com/in/fatemesadat-hosseini/and 
-
-we will provide you with the password needed to extract IDPL-LSPOD.zip.
-
 **Notes:**
  + *IDPL is abbreviation of “Intelligent Data Processing Laboratory”.*
 
- + *LSFOD is abbreviation of “Large-Scale Farsi OCR Dataset”.*
+ + *PFOD is abbreviation of “ Printed Farsi OCR Dataset”.*
 
-## IDPL-LSPOD Description
-IDPL-LSPOD:
-+ Is an artificial image dataset of printed Persian text.
+## IDPL-PFOD Description
+IDPL-PFOD:
++ Is an artificial image dataset of printed Farsi text.
 
-+ Has 30,138 images in tif format, each image containing a line of real Persian text.
++ Has 30,138 images in tif format, each image containing a line of real Farsi text.
 
 + The dimensions of the images are 700 x 50 pixels.
 
@@ -38,7 +30,7 @@ IDPL-LSPOD:
   
   + 2% both blur and one type of distortion.
   
-+ To generate images, 11 common Persian fonts with 2 font styles and 7 font sizes have been used.
++ To generate images, 11 common Farsi fonts with 2 font styles and 7 font sizes have been used.
 
 + To record image information, we have created a CSV file that has 30,138 rows, each row corresponding to an image.
  
@@ -50,8 +42,8 @@ IDPL-LSPOD:
 
  + *We used part of the code published [here](https://github.com/Belval/TextRecognitionDataGenerator) to add SineWave distortion to our images.*
 
-## In which fields IDPL-LSPOD can be used?
- + Train phase of Persian OCR engine.
+## In which fields Farsi can be used?
+ + Train phase of Farsi OCR engine.
  + Some branch of OCR research.
 
 ## Summery of IDPL-LSPOD
