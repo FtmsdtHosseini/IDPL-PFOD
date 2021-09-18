@@ -1,5 +1,5 @@
-# *IDPL-PFOD: An Image Dataset of Printed Farsi Text for OCR Research.*
-This repository contains IDPL-PFOD that is Printed Farsi OCR Dataset for Farsi optical character recognition researches.
+# *IDPL-PrFOD: An Image Dataset of Printed Farsi Text for OCR Research.*
+This repository contains IDPL-PrFOD that is Printed Farsi OCR Dataset for Farsi optical character recognition researches.
 
 The full dataset is uploaded in IDPL website and Google Drive you can download it in one of the following two ways:
 
@@ -9,10 +9,10 @@ The full dataset is uploaded in IDPL website and Google Drive you can download i
 **Notes:**
  + *IDPL is abbreviation of “Intelligent Data Processing Laboratory”.*
 
- + *PFOD is abbreviation of “ Printed Farsi OCR Dataset”.*
+ + *PrFOD is abbreviation of “ Printed Farsi OCR Dataset”.*
 
-## IDPL-PFOD Description
-IDPL-PFOD:
+## IDPL-PrFOD Description
+IDPL-PrFOD:
 + Is an artificial image dataset of printed Farsi text.
 
 + Has 30,138 images in **tif** format, each image containing a line of real Farsi text.
@@ -38,7 +38,7 @@ IDPL-PFOD:
 
  + *We used [MirasText](https://github.com/miras-tech/MirasText/tree/master/MirasText) Dataset to generate text of each image.*
 
- + *We generated IDPL-LSPOD's images by using the Python programming language.*
+ + *We generated IDPL-PrFOD's images by using the Python programming language.*
 
  + *We used part of the code published [here](https://github.com/Belval/TextRecognitionDataGenerator) to add SineWave distortion to our images.*
 
@@ -46,7 +46,7 @@ IDPL-PFOD:
  + Train phase of Farsi OCR engine.
  + Some branch of OCR research.
 
-## Summery of IDPL-LSPOD
+## Summery of IDPL-PrFOD
 | | **Plain white** | **Noisy** | **Texture** | **Total image**| **Total Lines** | **Total Words** |
 :-:|:-:|:-:|:-:|:-:|:-:|:-:
 | **Each font** | 1,370 | 1,096 | 273/274 | 2,739/2,740 | 2,739/2,740 | 41,085/41,100 |
