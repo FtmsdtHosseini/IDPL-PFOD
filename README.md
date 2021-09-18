@@ -7,26 +7,26 @@ The full dataset is uploaded in IDPL website and Google Drive which can be downl
  + [IDPL website]
  
 **Notes:**
- + *IDPL is abbreviation of “Intelligent Data Processing Laboratory”.*
+ + *IDPL stands for “Intelligent Data Processing Laboratory”.*
 
- + *PrFOD is abbreviation of “ Printed Farsi OCR Dataset”.*
+ + *PrFOD stands for “Printed Farsi OCR Dataset”.*
 
 ## IDPL-PrFOD Description
 IDPL-PrFOD:
 + Is an artificial image dataset of printed Farsi text.
 
-+ Has 30,138 images in **tif** format, each image containing a line of real Farsi text.
++ Has 30,138 images in **tif** format, and each image contains a line of real Farsi text.
 
 + The dimensions of the images are 700 x 50 pixels.
 
 + 50% of the images are generated with a Plain white background, 40% with a noisy background and 10% with a texture background.
  
-+ To increase the similarity of images with real images, we have added distortion and blur to 10% of the total images.
-  + 4% sloping distortion.
++ To increase the similarity of images with real images,some distortion and blur is added to 10% of the total images. More precisely, we have:
+  + 4% sloping distortion,
   
-  + 1% sinewave distortion.
+  + 1% sinewave distortion,
  
-  + 3% blur.
+  + 3% blur,
   
   + 2% both blur and one type of distortion.
   
@@ -38,13 +38,9 @@ IDPL-PrFOD:
 
  + *We used [MirasText](https://github.com/miras-tech/MirasText/tree/master/MirasText) Dataset to generate text of each image.*
 
- + *We generated IDPL-PrFOD's images by using the Python programming language.*
+ + *We generated IDPL-PrFOD's images using Python programming language.*
 
  + *We used part of the code published [here](https://github.com/Belval/TextRecognitionDataGenerator) to add SineWave distortion to our images.*
-
-## In which fields Farsi can be used?
- + Train phase of Farsi OCR engine.
- + Some branch of OCR research.
 
 ## Summery of IDPL-PrFOD
 | | **Plain white** | **Noisy** | **Texture** | **Total image**| **Total Lines** | **Total Words** |
