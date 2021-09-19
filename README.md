@@ -1,5 +1,5 @@
-# *IDPL-PrFOD: An Image Dataset of Printed Farsi Text for OCR Research.*
-This repository contains IDPL-PrFOD that is a Printed Farsi OCR Dataset for Farsi optical character recognition researches.
+# *IDPL-FATIMA: Farsi text image dataset for OCR Research*
+This repository contains IDPL-FATIMA that is a Farsi text image dataset for Farsi optical character recognition researches.
 
 The full dataset is uploaded in IDPL website and Google Drive which can be downloaded with the following links:
 
@@ -9,10 +9,10 @@ The full dataset is uploaded in IDPL website and Google Drive which can be downl
 **Notes:**
  + *IDPL stands for “Intelligent Data Processing Laboratory”.*
 
- + *PrFOD stands for “Printed Farsi OCR Dataset”.*
+ + *FATIMA stands for “FArsi Text IMAge”.*
 
-## IDPL-PrFOD Description
-IDPL-PrFOD:
+## IDPL-FATIMA Description
+IDPL-FATIMA:
 + Is an artificial image dataset of printed Farsi text.
 
 + Has 30,138 images in **tif** format, and each image contains a line of real Farsi text.
@@ -38,11 +38,11 @@ IDPL-PrFOD:
 
  + *We used [MirasText](https://github.com/miras-tech/MirasText/tree/master/MirasText) Dataset to generate text of each image.*
 
- + *We generated IDPL-PrFOD's images using Python programming language.*
+ + *We generated IDPL-FATIMA's images using Python programming language.*
 
  + *We used part of the code published [here](https://github.com/Belval/TextRecognitionDataGenerator) to add SineWave distortion to our images.*
 
-## Summery of IDPL-PrFOD
+## Summery of IDPL-FATIMA
 | | **Plain white** | **Noisy** | **Texture** | **Total image**| **Total Lines** | **Total Words** |
 :-:|:-:|:-:|:-:|:-:|:-:|:-:
 | **Each font** | 1,370 | 1,096 | 273/274 | 2,739/2,740 | 2,739/2,740 | 41,085/41,100 |
