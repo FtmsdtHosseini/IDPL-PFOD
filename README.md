@@ -1,18 +1,17 @@
-# *IDPL-FATIMA: Farsi text image dataset for OCR Research*
-This repository contains IDPL-FATIMA that is a Farsi text image dataset for Farsi optical character recognition researches.
+# *IDPL-PFOD: An Image Dataset of Printed Farsi Text for OCR Research*
+This repository contains IDPL-PFOD that is An Image Dataset of Printed Farsi Text for Farsi optical character recognition researches.
 
-The full dataset is uploaded in IDPL website and Google Drive which can be downloaded with the following links:
+The full dataset is uploaded in Google Drive which can be downloaded with the following link:
 
- + [Google Drive](https://drive.google.com/drive/folders/1Nhvs5WFQH-EAVK0zk8YyyJnSMdvYJJhw?usp=sharing)
- + [IDPL website]
+ + [Google Drive](https://drive.google.com/drive/folders/1TaQ5gZ4Q3ROw_X_HQi_U8lFenrwVlzlT?usp=sharing)
  
 **Notes:**
  + *IDPL stands for “Intelligent Data Processing Laboratory”.*
 
- + *FATIMA stands for “FArsi Text IMAge”.*
+ + *PFOD stands for “Printed Farsi OCR Dataset”.*
 
-## IDPL-FATIMA Description
-IDPL-FATIMA:
+## IDPL-PFOD Description
+IDPL-PFOD:
 + Is an artificial image dataset of printed Farsi text.
 
 + Has 30,138 images in **tif** format, and each image contains a line of real Farsi text.
@@ -38,11 +37,11 @@ IDPL-FATIMA:
 
  + *We used [MirasText](https://github.com/miras-tech/MirasText/tree/master/MirasText) Dataset to generate text of each image.*
 
- + *We generated IDPL-FATIMA's images using Python programming language.*
+ + *We generated IDPL-PFOD's images using Python programming language.*
 
  + *We used part of the code published [here](https://github.com/Belval/TextRecognitionDataGenerator) to add SineWave distortion to our images.*
 
-## Summery of IDPL-FATIMA
+## Summery of IDPL-PFOD
 | | **Plain white** | **Noisy** | **Texture** | **Total image**| **Total Lines** | **Total Words** |
 :-:|:-:|:-:|:-:|:-:|:-:|:-:
 | **Each font** | 1,370 | 1,096 | 273/274 | 2,739/2,740 | 2,739/2,740 | 41,085/41,100 |
