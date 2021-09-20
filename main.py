@@ -27,9 +27,13 @@ text = open(source, 'r')
 lines = text.readlines()
 
 #--------------------------------------------------------------------------------------------------------
-for i in range(len(index)):
-	randlist.append(int(index[i]))
-#--------------------------------------------------------------------------------------------------------	
+randlist = [1,1243,1298,1339,1353,1372,1381,2371,2415,2448,2459,2474,2481,2731,2742,2750,2753,2756]
+'''
+randlist = []
+for i in range(1,len(lines)+1):
+	randlist.append(i)
+random.shuffle(randlist)
+'''
 infolist = []
 count = 1
 for i in range(len(lines)):
@@ -41,17 +45,18 @@ for i in range(len(lines)):
 		pic = random.choice(pics)
 		size_text = random.choice([10,11,12,13,14,15,16])
 		noise = random.choice(['gaussian','s&p','poisson','speckle'])
-		func, rotate, distorsion, blur, flag = items.choice(i)
-		print(flag)
+		rand = randlist[i]
+		func, rotate, distorsion, blur, flag = items.choice(rand)
 		count += 1
+		
 		if func == 'White Noisy' and (distorsion == 'None' or distorsion == 'slope') :
-			picture = textGen_White_Noisy.textGen_W_N_rot(line, font, rotate, size_text, blur, flag)
-			cv2.imwrite("out/" + name + ".tif", picture)
-			
-		elif func == 'White Noisy' and distorsion == 'sin wave' :
-			picture = textGen_White_Noisy.textGen_W_N_sin(text, font, size_text, blur, flag)
+			picture = textGen_White_Noisy.textGen_W_N_rot(line, font, rotate, size_text, blur, noise, flag)
 			cv2.imwrite("out/" + name + ".tif", picture)
 				
+		elif func == 'White Noisy' and distorsion == 'sin wave' :
+			picture = textGen_White_Noisy.textGen_W_N_sin(line, font, size_text, blur, noise, flag)
+			cv2.imwrite("out/" + name + ".tif", picture)
+					
 		elif func == 'Texture' and (distorsion == 'None' or distorsion == 'slope') :
 			picture = textGen_Texture.textGen_T_rot(line, font, rotate, size_text, pic, blur)
 			cv2.imwrite("out/" + name + ".tif", picture)
