@@ -41,7 +41,7 @@ IDPL-PFOD:
 
  + *We used part of the code published [here](https://github.com/Belval/TextRecognitionDataGenerator) to add SineWave distortion to our images.*
 
-## Summery of IDPL-PFOD
+## Summary of IDPL-PFOD
 | | **Plain white** | **Noisy** | **Texture** | **Total images**| **Total Lines** | **Total Words** |
 :-:|:-:|:-:|:-:|:-:|:-:|:-:
 | **Each font** | 1,370 | 1,096 | 273/274 | 2,739/2,740 | 2,739/2,740 | 41,085/41,100 |
