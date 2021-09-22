@@ -18,7 +18,7 @@ IDPL-PFOD:
 
 + The dimensions of the images are 700 x 50 pixels.
 
-+ 50% of the images are generated with a Plain white background, 40% with a noisy background and 10% with a texture background.
++ 50% of the images are generated with a plain white background, 40% with a noisy background and 10% with a texture background.
  
 + To increase the similarity of images with real images,some distortion and blur is added to 10% of the total images. More precisely, we have:
   + 4% sloping distortion,
@@ -42,7 +42,7 @@ IDPL-PFOD:
  + *We used part of the code published [here](https://github.com/Belval/TextRecognitionDataGenerator) to add SineWave distortion to our images.*
 
 ## Summery of IDPL-PFOD
-| | **Plain white** | **Noisy** | **Texture** | **Total image**| **Total Lines** | **Total Words** |
+| | **Plain white** | **Noisy** | **Texture** | **Total images**| **Total Lines** | **Total Words** |
 :-:|:-:|:-:|:-:|:-:|:-:|:-:
 | **Each font** | 1,370 | 1,096 | 273/274 | 2,739/2,740 | 2,739/2,740 | 41,085/41,100 |
 | **Total fonts** | 15,070 | 12,056 | 3,012 | 30,138 | 30,138 | 452,070 |
