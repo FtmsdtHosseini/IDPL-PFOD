@@ -10,7 +10,7 @@ The full dataset is uploaded in Google Drive which can be downloaded with the fo
 
  + *PFOD stands for “Printed Farsi OCR Dataset”.*
  
- + *The size of the dataset is 508 MB.*
+ + *The size of the dataset is 507 MB.*
 
 ## IDPL-PFOD Description
 IDPL-PFOD:
