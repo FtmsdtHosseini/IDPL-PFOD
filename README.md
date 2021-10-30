@@ -50,17 +50,17 @@ IDPL-PFOD:
 ## Some of generated images in png format
 #### *Plain white background:*
 ![](images/00001.png)
-#### **
+#### * *
 ![](images/00002.png)
 #### *Noisy background:*
 ![](images/00003.png)
-#### **
+#### * *
 ![](images/00004.png)
-#### **
+#### * *
 ![](images/00005.png)
 #### *Texture background:*
 ![](images/00006.png)
-#### **
+#### * *
 ![](images/00007.png)
-#### **
+#### * *
 ![](images/00008.png)
