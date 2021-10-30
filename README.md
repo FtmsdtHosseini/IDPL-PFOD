@@ -9,6 +9,8 @@ The full dataset is uploaded in Google Drive which can be downloaded with the fo
  + *IDPL stands for “Intelligent Data Processing Laboratory”.*
 
  + *PFOD stands for “Printed Farsi OCR Dataset”.*
+ 
+ + *The size of the dataset is 508 MB.*
 
 ## IDPL-PFOD Description
 IDPL-PFOD:
