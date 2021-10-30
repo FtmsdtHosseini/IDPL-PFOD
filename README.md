@@ -50,13 +50,17 @@ IDPL-PFOD:
 ## Some of generated images in png format
 #### *Plain white background:*
 ![](images/00001.png)
-#### *Noisy background:*
+#### **
 ![](images/00002.png)
-#### *Texture background:*
+#### *Noisy background:*
 ![](images/00003.png)
-#### *Texture background, Sinwave distortion:*
+#### **
 ![](images/00004.png)
-#### *Noisy background, Sloping(-1 degree) distortion:*
+#### **
 ![](images/00005.png)
-#### *Plain white background, Sinwave distortion, Gaussian blur:*
+#### *Texture background:*
 ![](images/00006.png)
+#### **
+![](images/00007.png)
+#### **
+![](images/00008.png)
