@@ -44,7 +44,7 @@ IDPL-PFOD:
 ## Summary of IDPL-PFOD
 | | **Plain white** | **Noisy** | **Texture** | **Total images**| **Total Lines** | **Total Words** |
 :-:|:-:|:-:|:-:|:-:|:-:|:-:
-| **Each font** | 1,370 | 1,096 | 274 | 2,740 | 2,740 | 41,100 |
+| **Each font** | 1,370 | 1,096 | 273 or 274 | 2,739 or 2,740 | 2,739 or 2,740 | 41,085 or 41,100 |
 | **Total fonts** | 15,070 | 12,056 | 3,012 | 30,138 | 30,138 | 452,070 |
 
 ## Some of generated images in png format
