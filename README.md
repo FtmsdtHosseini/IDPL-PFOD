@@ -35,7 +35,7 @@ IDPL-PFOD:
   
   + 2% both blur and one type of distortion.
   
-+ To generate images, 11 common Farsi fonts with 2 font styles and 7 font sizes have been used.
++ To generate images, 11 common Farsi fonts with 2 font styles, 7 font sizes and 12 different patterns(for image with Texture background) have been used.
 
 + To record image information, we have created a CSV file that has 30,138 rows, each row corresponding to an image.
  
